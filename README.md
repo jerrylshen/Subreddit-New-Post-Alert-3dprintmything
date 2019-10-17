@@ -8,4 +8,5 @@ Google Sheet that tracks all visited submissions: https://docs.google.com/spread
   
 https://www.reddit.com/r/3Dprintmything/new/ 
  
+Python, PRAW, Twilio, Gspread
 Hosted on PythonAnywhere
