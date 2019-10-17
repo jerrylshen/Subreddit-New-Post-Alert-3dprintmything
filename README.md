@@ -6,6 +6,6 @@ Reason: I have a 3D printer and am trying to sell my prints on the subreddit, so
 
 Google Sheet that tracks all visited submissions: https://docs.google.com/spreadsheets/d/1G_Gccgj_C_-s2Objf2zQXGco0GxCqiiDqbBYe6CySD8/edit?usp=sharing   
   
-https://docs.google.com/spreadsheets/d/1G_Gccgj_C_-s2Objf2zQXGco0GxCqiiDqbBYe6CySD8/edit?usp=sharing   
+https://www.reddit.com/r/3Dprintmything/new/ 
  
 Hosted on PythonAnywhere
